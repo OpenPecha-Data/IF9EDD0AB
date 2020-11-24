@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03611
   title: དཔྱད་རྩོམ་ནོར་བུའི་ཕྲེང་བ་༔ ༡
-  volume: ''
+  volume:
+    2402b6b00f26478b96e2092dcbab2299:
+      image_group_id: I00KG03727
+      title: 'Volume 1 of dpyad rtsom nor bu''i phreng ba : 1'
+      volume_number: 1
+      total_pages: 272
   author: ''
+ebook_metadata:
+  title: དཔྱད་རྩོམ་ནོར་བུའི་ཕྲེང་བ་༔ ༡
+  author: ''
+  sku: P000543
+  cover: cover.jpg
+  layers:
+  - pagination
