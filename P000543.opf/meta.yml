@@ -1,15 +1,16 @@
-id: opecha:P000543
+id: P000543
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03611
   title: དཔྱད་རྩོམ་ནོར་བུའི་ཕྲེང་བ་༔ ༡
-  volume:
+  author: ''
+  volumes:
     2402b6b00f26478b96e2092dcbab2299:
       image_group_id: I00KG03727
       title: 'Volume 1 of dpyad rtsom nor bu''i phreng ba : 1'
       volume_number: 1
       total_pages: 272
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དཔྱད་རྩོམ་ནོར་བུའི་ཕྲེང་བ་༔ ༡
   author: ''
